@@ -25,14 +25,14 @@ This is a Pharmacy Management System, a web application designed to simplify and
    ```bash
    git clone https://github.com/your-username/pharmacy-management-system.git
    
-2.Navigate to the project directory:
+2. Navigate to the project directory:
   ```bash
   cd pharmacy-management-system
 
 3. Install dependencies:
   ```bash
-npm install
+   npm install
 
 4. Start the application:
-```bash
-ng serve
+   ```bash
+   ng serve
