@@ -23,7 +23,7 @@ This is a Pharmacy Management System, a web application designed to simplify and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pharmacy-management-system.git
+   git clone https://github.com/Krishnakokate/Pharmacy-Management-System.git
    
 2. Navigate to the project directory:
    ```bash
