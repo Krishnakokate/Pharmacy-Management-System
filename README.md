@@ -30,7 +30,7 @@ This is a Pharmacy Management System, a web application designed to simplify and
    cd pharmacy-management-system
 
 3. Install dependencies:
-  ```bash
+   ```bash
    npm install
 
 4. Start the application:
